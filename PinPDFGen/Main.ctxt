@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=textFile
+comment0.target=java.util.List\ loadText(java.io.File)
+comment1.params=lineCorpus
+comment1.target=java.util.List\ parseText(java.util.List)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ args[1]\ will\ be\ the\ text\ file\ to\ read\ from.\r\n\ args[2]\ will\ be\ the\ directory\ containing\ all\ of\ the\ appropriate\ image\ files.\r\n\ args[3]\ is\ the\ name\ of\ the\ .pdf\ file\ to\ generate.\r\n
+numComments=3

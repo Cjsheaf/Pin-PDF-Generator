@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=pinList\ imageDirectory
+comment0.target=DocumentGeneratorPDF(java.util.List,\ java.lang.String)
+comment1.params=document
+comment1.target=void\ addContentToDocument(org.apache.pdfbox.pdmodel.PDDocument)
+comment2.params=fileName
+comment2.target=void\ generateDocument(java.lang.String)
+comment3.params=
+comment3.target=int\ getNextImageIndex()
+comment3.text=\r\n\ Returns\ the\ next\ index\ number\ in\ pinList\ that\ has\ an\ image\ available.\r\n\ Not\ all\ image\ entries\ are\ valid,\ and\ any\ invalid\ images\ are\ ignored.\r\n
+numComments=4
